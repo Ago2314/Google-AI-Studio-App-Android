@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio",
+  "description": "Dedicated Android native client and wrapper for Google AI Studio with advanced WebView controls, offline handling, and API key management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
